@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avdhoot67
+- 👋 Hi, I’m Avdhoot Shinde.
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on frontend projects.
