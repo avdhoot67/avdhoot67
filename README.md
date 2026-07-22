@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Avdhoot Shinde.
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 How to reach me : avdhoot678@gmail.com
 - 😄 Pronouns: He/Him
